@@ -1,3 +1,8 @@
+# ── CODERABBIT FULL REVIEW ──────────────────────────────────────────────────────
+# Full codebase review for v52: summary styles (Story Arc, Feynman, Practical Playbook)
+# and complete Flask book summarizer with news digest implementation.
+# ─────────────────────────────────────────────────────────────────────────────────
+
 # app_v50.py
 # v50 change: final polish - hardened complete-sentence/takeaway validation, safer bullet shortening, and final style QA packaging.
 # app_v45.py
