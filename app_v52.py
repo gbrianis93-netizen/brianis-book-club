@@ -97,7 +97,7 @@ app.config["MAX_CONTENT_LENGTH"] = 100 * 1024 * 1024  # 100 MB upload limit
 # Single source of truth for build identity — used by the startup banner,
 # the digest cover stamp, and the /version endpoint so the running build can
 # always be verified from the browser without depending on any file on disk.
-BUILD_TAG   = "v51"
+BUILD_TAG   = "v52"
 BUILD_LABEL = "CHAPTER-MANIFEST-LOCK BUILD"
 
 @app.errorhandler(RequestEntityTooLarge)
